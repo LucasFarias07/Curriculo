@@ -94,7 +94,7 @@
       
      
 </p>
-      <a href="https://lucasfarias07.github.io/Port/">Acesse meu portfólio</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://lucasfarias07.github.io/Site-pessoal/"> Meu site pessoal</a>
+      <a href="https://lucasfarias07.github.io/Port/">Acesse meu portfólio</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://lucasfarias07.github.io/Site-pessoal/"> Meu site pessoal</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=" https://lucasfarias07.github.io/Site-pessoal/">Fale comigo</a>
       
   </body>
 </html>
