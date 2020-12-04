@@ -92,7 +92,7 @@
 <p>             Celular: 9XXXXXX...<br>
                 <a href="https://www.linkedin.com/in/lucas-farias-099a4b1b2/" >Perfil Linkedin</a>
       
-      
+     
 </p>
       
       
