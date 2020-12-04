@@ -61,7 +61,7 @@
 </div>
       <div id="Fotow">
       <div align="center">
-          <img src="Foto.png" width="200px" alt="Minha foto" border: 5px; border-bottom-color: aliceblue;>
+          <img src="Foto.png" width="200px" alt="Minha foto" border: 5px; border-bottom-color: aliceblue;/>
 </div>
           </div>
 <hr>
