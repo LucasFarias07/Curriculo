@@ -66,7 +66,7 @@
           </div>
 <hr>
                <li style="font-size: 20px;"><u><b>Formação acadêmica</b></u></li>
-<p <p>
+<p>
                 <em><b>Ensino médio</b></em> concluido na escola militar <em><b>Fundação Osório</b></em> (2019).<br>
                 <em><b>Técnico em administração</b></em> pela escola militar <em><b>Fundação Osório</b></em> (2019).<br>
                 Cursando <em><b>Sistemas de informação</b></em> pela <em><b>Universidade Veiga de Almeida</b></em> (período atual).<br>
@@ -94,7 +94,7 @@
       
      
 </p>
-      
+      <a href="https://lucasfarias07.github.io/Port/">Acesse meu portfólio</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://lucasfarias07.github.io/Site-pessoal/"> Meu site pessoal</a>
       
   </body>
 </html>
