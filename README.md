@@ -23,7 +23,7 @@
           }
         body 
           {
-              background-color:	#1C86EE;
+              background-color:#87CEFA;
                margin:0%;
                padding-left: 2%;
                padding-right: 6%;
